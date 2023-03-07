@@ -25,13 +25,13 @@ Complete the tasks below
 
 <li>Each table should have a name column ✔️</li>
 
-<li>You should use the INT data type for at least two columns that are not a primary or foreign key</li>
+<li>You should use the INT data type for at least two columns that are not a primary or foreign key ✔️</li>
 
-<li>You should use the NUMERIC data type at least once</li>
+<li>You should use the NUMERIC data type at least once ✔️</li>
 
-<li>You should use the TEXT data type at least once</li>
+<li>You should use the TEXT data type at least once ✔️</li>
 
-<li>You should use the BOOLEAN data type on at least two columns</li>
+<li>You should use the BOOLEAN data type on at least two columns ✔️</li>
 
 <li>Each "star" should have a foreign key that references one of the rows in galaxy</li>
 
@@ -39,7 +39,7 @@ Complete the tasks below
 
 <li>Each "moon" should have a foreign key that references one of the rows in planet</li>
 
-<li>Your database should have at least five tables</li>
+<li>Your database should have at least five tables </li>
 
 <li>Each table should have at least three rows</li>
 
@@ -53,11 +53,11 @@ Complete the tasks below
 
 <li>The galaxy, star, planet, and moon tables should each have at least five columns</li>
 
-<li>At least two columns per table should not accept NULL values</li>
+<li>At least two columns per table should not accept NULL values ✔️</li>
 
-<li>At least one column from each table should be required to be UNIQUE</li>
+<li>At least one column from each table should be required to be UNIQUE ✔️</li>
 
-<li>All columns named name should be of type VARCHAR</li>
+<li>All columns named 'name' should be of type VARCHAR ✔️</li>
 
 <li>Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id</li>
 
