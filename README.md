@@ -1,5 +1,6 @@
 # Relational-Database-beta-FreeCodeCamp
-
+## Celestial Bodies Database
+<img src="Images/celestial-bodies-wallpaper.jpg" height= "200px">
 Instructions
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering psql --username=freecodecamp --dbname=postgres in the terminal. Make all the tests below pass to complete the project. Be sure to get creative, and have fun!
 
@@ -17,7 +18,7 @@ Complete the tasks below
 <ul>
 <li>You should create a database named universe ✔️</li>
 
-<li>Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon</li>
+<li>Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon ✔️</li>
 
 <li>Each table should have a primary key ✔️</li>
 
@@ -39,7 +40,7 @@ Complete the tasks below
 
 <li>Each "moon" should have a foreign key that references one of the rows in planet</li>
 
-<li>Your database should have at least five tables </li>
+<li>Your database should have at least five tables ✔️</li>
 
 <li>Each table should have at least three rows</li>
 
@@ -49,9 +50,9 @@ Complete the tasks below
 
 <li>The moon table should have at least 20 rows</li>
 
-<li>Each table should have at least three columns</li>
+<li>Each table should have at least three columns ✔️</li>
 
-<li>The galaxy, star, planet, and moon tables should each have at least five columns</li>
+<li>The galaxy, star, planet, and moon tables should each have at least five columns ✔️</li>
 
 <li>At least two columns per table should not accept NULL values ✔️</li>
 
@@ -59,6 +60,6 @@ Complete the tasks below
 
 <li>All columns named 'name' should be of type VARCHAR ✔️</li>
 
-<li>Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id</li>
+<li>Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id ✔️</li>
 
 <li>Each foreign key column should have the same name as the column it is referencing</li>
