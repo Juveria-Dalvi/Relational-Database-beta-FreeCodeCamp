@@ -34,21 +34,21 @@ Complete the tasks below
 
 <li>You should use the BOOLEAN data type on at least two columns ✔️</li>
 
-<li>Each "star" should have a foreign key that references one of the rows in galaxy</li>
+<li>Each "star" should have a foreign key that references one of the rows in galaxy ✔️</li>
 
-<li>Each "planet" should have a foreign key that references one of the rows in star</li>
+<li>Each "planet" should have a foreign key that references one of the rows in star ✔️</li>
 
-<li>Each "moon" should have a foreign key that references one of the rows in planet</li>
+<li>Each "moon" should have a foreign key that references one of the rows in planet ✔️</li>
 
 <li>Your database should have at least five tables ✔️</li>
 
-<li>Each table should have at least three rows</li>
+<li>Each table should have at least three rows ✔️</li>
 
-<li>The galaxy and star tables should each have at least six rows</li>
+<li>The galaxy and star tables should each have at least six rows ✔️</li>
 
-<li>The planet table should have at least 12 rows</li>
+<li>The planet table should have at least 12 rows ✔️</li>
 
-<li>The moon table should have at least 20 rows</li>
+<li>The moon table should have at least 20 rows ✔️</li>
 
 <li>Each table should have at least three columns ✔️</li>
 
@@ -62,4 +62,4 @@ Complete the tasks below
 
 <li>Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id ✔️</li>
 
-<li>Each foreign key column should have the same name as the column it is referencing</li>
+<li>Each foreign key column should have the same name as the column it is referencing ✔️</li>
